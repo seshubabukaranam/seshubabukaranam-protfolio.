@@ -37,9 +37,7 @@ hr {
     text-decoration: none;
     padding: 0.5rem 1rem;
   }
-  /** look into BEM naming convention for CSS **/
-  
-  /** lists **/
+
   
   .list-non-bullet {
     list-style: none;
@@ -52,7 +50,7 @@ hr {
   }
   
 
-/** navigation **/
+
 
 .navigation {
     background-color: var(--primary-color);
@@ -123,13 +121,10 @@ hr {
 }
 
 
-/** spaces **/
-
 .margin-md {
     margin: 2rem;
 }
 
-/** container **/
 .container {
     padding: 1rem 1rem;
 }
@@ -140,7 +135,6 @@ hr {
 }
 
 
-/** footers **/
 
 .footer {
     background-color: var(--primary-color);
@@ -163,12 +157,12 @@ hr {
     padding-inline-start: 0px;
 }
 
-/** projects **/
+
 .showcase-list {
     padding: 2rem;
 }
 
-/** blogs **/
+
 .showcase-blog {
     padding-bottom: 6rem;
 }
